@@ -2,6 +2,7 @@
 name = "sdl2_mixer_minimal"
 version = "0.1.0"
 authors = ["Michael Fairley <michaelfairley@gmail.com>"]
+build = "build.rs"
 
 [dependencies]
 
