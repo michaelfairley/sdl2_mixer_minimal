@@ -1,0 +1,10 @@
+[package]
+name = "sdl2_mixer_minimal"
+version = "0.1.0"
+authors = ["Michael Fairley <michaelfairley@gmail.com>"]
+
+[dependencies]
+
+[dependencies.sdl2]
+version = "*"
+features = ["mixer"]
